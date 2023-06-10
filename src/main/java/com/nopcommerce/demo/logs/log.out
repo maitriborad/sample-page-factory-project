@@ -1,0 +1,8 @@
+2023-05-13 11:05:753 INFO  ManageBrowser :28 - Chrome browser lunch......
+2023-05-13 11:05:135 INFO  HomePage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (1afa00ddd2882ee7ec709d43f8c66687)] -> link text: Log in]
+2023-05-13 12:05:353 INFO  ManageBrowser :28 - Chrome browser lunch......
+2023-05-13 12:05:219 INFO  HomePage :24 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (90f036ed9a1438a4d48f23ff322a352c)] -> link text: Log in]
+2023-05-13 12:05:295 INFO  LoginPage :45 - Enter email : prime123@gmail.com[[ChromeDriver: chrome on WINDOWS (90f036ed9a1438a4d48f23ff322a352c)] -> id: Email]
+2023-05-13 12:05:392 INFO  LoginPage :51 - Enter password : prime123[[ChromeDriver: chrome on WINDOWS (90f036ed9a1438a4d48f23ff322a352c)] -> name: Password]
+2023-05-13 12:05:32 INFO  LoginPage :57 - Click on login Button : [[ChromeDriver: chrome on WINDOWS (90f036ed9a1438a4d48f23ff322a352c)] -> xpath: //button[contains(text(),'Log in')]]
+2023-05-13 12:05:124 INFO  LoginPage :63 - Get error message [[ChromeDriver: chrome on WINDOWS (90f036ed9a1438a4d48f23ff322a352c)] -> xpath: //div[@class='message-error validation-summary-errors']]
